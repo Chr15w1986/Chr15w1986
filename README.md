@@ -30,19 +30,18 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 
 ***
 
-### Find me around the web 🌎:
+## 🌎 Find me around the web:
 
 <a href="https://www.linkedin.com/in/chris-williams-528263220/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="chris | LinkedIn" width="25px"/></a>
 <a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="" width="25px"/></a>
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 </br>
 
 ***
 
-
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on:
 
 - My old projects
 - Django based Food menu app (Fairfields foods)
