@@ -1,10 +1,17 @@
-### Hey and welcome to my github profile, 👋, I'm Chris.
+<h2 align="center">
+Hey and welcome to my github profile, I'm Chris. 👋
+</h2>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Chr15w1986&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My GitHub Stats so far..." />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr15w1986&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
+<h3 align="center">
+I'm a Full-Stack Web Developer 💻!
+</h3> 
 
-Within the diploma I gained experience with the following
-### Languages and Tools:
+I love the entire process of developing creative and responisve websites. I love learning new programming languages and refining the ones I already know.
+I enjoy new challenges, trying to create something from scratch, the challenge of finding issues or errors and correcting them.
+
+***
+
+## 💼 Technical Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +31,32 @@ Within the diploma I gained experience with the following
 ***
 
 ### Find me around the web 🌎:
-[<img align="left" alt="Chris Williams | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Chris Williams | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+
+<a href="https://www.linkedin.com/in/chris-williams-528263220/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="chris | LinkedIn" width="25px"/></a>
+<a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="" width="25px"/></a>
+
+</br>
+
+***
+
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Django based Food menu app (Fairfields foods)
+- My CSS skills
+- Helping various CI students on Slack with their own projects
+
+
+***
+
+## 📈 GitHub Stats 
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Chr15w1986&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr15w1986&layout=compact&theme=vision-friendly-dark&hide_border=true" /> 
 
 <!---
 Chr15w1986/Chr15w1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
