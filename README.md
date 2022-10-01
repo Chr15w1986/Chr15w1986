@@ -6,12 +6,18 @@ Hey and welcome to my github profile, I'm Chris. 👋
 I'm a Full-Stack Web Developer 💻!
 </h3> 
 
+<h3 align="center">
+I have recently received a pass with Merit in Full Stack Software Development with CodeInstute!
+</h3> 
+
 I love the entire process of developing creative and responisve websites. I love learning new programming languages and refining the ones I already know.
 I enjoy new challenges, trying to create something from scratch, the challenge of finding issues or errors and correcting them.
 
 ***
 
-## 💼 Technical Skills:
+<h2 align="center">
+💼 Technical Skills:
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,12 +34,15 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-***
+</h2>
 
-## 🌎 Find me around the web:
+***
+<h2 align="center">
+🌎 Find me around the web:
 
 <a href="https://www.linkedin.com/in/chris-williams-528263220/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="chris | LinkedIn" width="25px"/></a>
 <a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="" width="25px"/></a>
+</h2>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
