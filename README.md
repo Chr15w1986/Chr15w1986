@@ -2,6 +2,8 @@
 Hey and welcome to my github profile, I'm Chris. 👋
 </h2>
 
+<img src="https://github.com/Chr15w1986/Chr15w1986/blob/main/eatcodesleeprepeat.png" />
+
 <h3 align="center">
 I'm a Full-Stack Web Developer 💻!
 </h3> 
@@ -37,6 +39,7 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 </h2>
 
 ***
+
 <h2 align="center">
 🌎 Find me on the web:
 
@@ -46,8 +49,6 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-</br>
-
 ***
 
 ## 🔭 I'm currently working on:
@@ -56,7 +57,6 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 - Django based Food menu app (Fairfields foods)
 - My CSS skills
 - Helping various CI students on Slack with their own projects
-
 
 ***
 
