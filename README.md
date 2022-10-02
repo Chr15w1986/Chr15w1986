@@ -10,7 +10,7 @@ I'm a Full-Stack Web Developer 💻!
 I have recently received a pass with Merit in Full Stack Software Development with CodeInstute!
 </h3> 
 
-I love the entire process of developing creative and responisve websites. I love learning new programming languages and refining the ones I already know.
+I love the entire process of developing creative and responsive websites. I love learning new programming languages and refining the ones I already know.
 I enjoy new challenges, trying to create something from scratch, the challenge of finding issues or errors and correcting them.
 
 ***
@@ -38,7 +38,7 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 
 ***
 <h2 align="center">
-🌎 Find me around the web:
+🌎 Find me on the web:
 
 <a href="https://www.linkedin.com/in/chris-williams-528263220/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="chris | LinkedIn" width="25px"/></a>
 <a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="" width="25px"/></a>
