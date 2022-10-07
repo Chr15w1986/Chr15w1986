@@ -54,7 +54,7 @@ I enjoy new challenges, trying to create something from scratch, the challenge o
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Django based Food menu app (Fairfields foods)
+- Django based Food menu app (Fairfields food)
 - My CSS skills
 - Helping various CI students on Slack with their own projects
 
