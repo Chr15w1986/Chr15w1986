@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer 💻!
 </h3> 
 
 <h3 align="center">
-I have recently received a pass with Merit in Full Stack Software Development with CodeInstute!
+I have recently received a pass with Merit in Full Stack Software Development with CodeInstitute!
 </h3> 
 
 I love the entire process of developing creative and responsive websites. I love learning new programming languages and refining the ones I already know.
